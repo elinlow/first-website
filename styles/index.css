@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(75, 127, 131);
+    opacity: 0.5;
+    font-size: 30px;
+    font-weight: 100px;
+    text-align: center;
+    background-color: beige;
+}
+
+#short-about-me {
+    color: blueviolet;
+}
+
+#work-experience, #education {
+    color: blue;
+}
+
+body {
+    background-image: url(../images/background.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    border-width: 25px;
+    border-style: solid;
+    border-color: rgb(75, 127, 131);
+    border-radius: 10%;
+
+}
