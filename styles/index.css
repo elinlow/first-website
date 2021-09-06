@@ -1,3 +1,9 @@
+body {
+    background-image: url(../images/background.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
 h1 {
     color: rgb(75, 127, 131);
     opacity: 0.5;
@@ -13,12 +19,6 @@ h1 {
 
 #work-experience, #education {
     color: blue;
-}
-
-body {
-    background-image: url(../images/background.jpeg);
-    background-size: cover;
-    background-position: center;
 }
 
 img {
