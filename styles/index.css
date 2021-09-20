@@ -2,6 +2,9 @@ body {
     background-image: url(../images/background.jpeg);
     background-size: cover;
     background-position: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 1px;
+
 }
 
 h1 {
